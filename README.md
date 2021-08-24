@@ -1,23 +1,26 @@
-### Hi there 👋
+## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Through 6 years of WEB and MOBILE development
+#### ABOUT ME
 
-Thanks for visiting my github.
-I am talented and passionate Web and Mobile Developer.
-I have worked for over 8 years.
-<div border="1px">
-    <p>My Skills</p>
-<p>Front-end: React.js - Redux/Vue.js -Vuex/Angular JS/Angular Material UI/Ionic/TypeScript/JS(ES 6+)/Tailwind/BootStrap/jQuery</p>
-<p>Backend: Node.js/Express Js/Laravel/CodeIgniter/Django</p>
-<p>Blockchain: BTC/ETH/NFT ...</p>
-<div>
+- 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
+- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
+- 😃 Have a Project in your Mind?
+- ✨ I will implement your great ideas to be live perfectly.
+
+#### MY SKILLS
+    ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript
+    ✔ PHP/Laravel/CodeIgniter/Symfony
+    ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
+    ✔ Flutter/IONIC/React Native/Xamarin
+    ✔ HTML5/jQuery/CSS/SCSS, Bootstrap/TailwindCSS
+    ✔ MongoDB, MySQL, MSSQL, PostgreSQL
+    ✔ Template, Theme and Script customization
+    ✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV
+    ✔ WordPress, Magento, Drupal, Shopify
+    ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
+    ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=sevenstarsandokan&column=7&theme=onedark"/>
 </p>
