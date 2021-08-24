@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sevenstarsandokan/sevenstarsandokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +8,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Thanks for visiting my github.
+I am talented and passionate Web and Mobile Developer.
+I have worked for over 8 years.
+
+My Skills.
+Front-end: React.js - Redux/Vue.js -Vuex/Angular JS/Angular Material UI/Ionic/TypeScript/JS(ES 6+)/Tailwind/BootStrap/jQuery
+Backend: Node.js/Express Js/Laravel/CodeIgniter/Django
+Blockchain: BTC/ETH/NFT ...
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
