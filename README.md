@@ -12,12 +12,12 @@
 Thanks for visiting my github.
 I am talented and passionate Web and Mobile Developer.
 I have worked for over 8 years.
-
-My Skills.
-Front-end: React.js - Redux/Vue.js -Vuex/Angular JS/Angular Material UI/Ionic/TypeScript/JS(ES 6+)/Tailwind/BootStrap/jQuery
-Backend: Node.js/Express Js/Laravel/CodeIgniter/Django
-Blockchain: BTC/ETH/NFT ...
-
+<div border="1px">
+    <p>My Skills</p>
+<p>Front-end: React.js - Redux/Vue.js -Vuex/Angular JS/Angular Material UI/Ionic/TypeScript/JS(ES 6+)/Tailwind/BootStrap/jQuery</p>
+<p>Backend: Node.js/Express Js/Laravel/CodeIgniter/Django</p>
+<p>Blockchain: BTC/ETH/NFT ...</p>
+<div>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sevenstarsandokan&column=7&theme=onedark"/>
 </p>
