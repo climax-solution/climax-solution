@@ -10,7 +10,7 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY SKILLS
-    ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express, ES5/ES6/Typescript
+    ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express , GSAP, ES5/ES6/Typescript
     ✔ PHP/Laravel/CodeIgniter/Symfony
     ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
     ✔ Flutter/IONIC/React Native/Xamarin
@@ -21,6 +21,3 @@
     ✔ WordPress, Magento, Drupal, Shopify
     ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
     ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sevenstarsandokan&column=7&theme=onedark"/>
-</p>
