@@ -10,6 +10,8 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY SKILLS
+    ✔ BTC, ETH, BSC, CARDANO, SOLANA, STELLER, RUST, ERC 20, ERC 721, ERC 1155, EIP 1159, Pancakeswap, Uniswap, Babyswap
+    ✔ Solidity, Web3.js, Ethers.js, Openzeppelin
     ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express , GSAP, ES5/ES6/Typescript
     ✔ PHP/Laravel/CodeIgniter/Symfony
     ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
