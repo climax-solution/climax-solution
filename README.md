@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### Through 5 years of WEB & BLOCKCHAIN & MOBILE development
+### Through 5 years of WEB & BLOCKCHAIN development
 #### ABOUT ME
 
 - 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
