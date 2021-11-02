@@ -11,7 +11,7 @@
 
 #### MY SKILLS
     ✔ BTC, ETH, BSC, CARDANO, SOLANA, STELLER, RUST, ERC 20, ERC 721, ERC 1155, EIP 1159, Pancakeswap, Uniswap, Babyswap
-    ✔ Solidity, Web3.js, Ethers.js, Openzeppelin
+    ✔ Solidity, Web3.js, Ethers.js, Openzeppelin, Truffle, Hardhat
     ✔ React/Next/Redux toolkit, Vue/Nuxt, Angular, Node/Express , GSAP, ES5/ES6/Typescript
     ✔ PHP/Laravel/CodeIgniter/Symfony
     ✔ Python/Django/Flask/Ruby on Rails/ASP.NET
@@ -22,4 +22,4 @@
     ✔ Payment, Facebook, Instagram, Google, and so on API integration, OpenCV
     ✔ WordPress, Magento, Drupal, Shopify
     ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
-    ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO, Cryptocurrency
+    ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO
