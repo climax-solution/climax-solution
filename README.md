@@ -24,5 +24,5 @@
     ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Git, Docker, Heroku
     ✔ ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=climax-solution&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=climax-solution&show_icons=true&theme=dark&layout=compact" />
 
