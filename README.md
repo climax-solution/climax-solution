@@ -3,27 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- NickName: Tortu ( full-stack web,mobile developer ).<br>
-- Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
-<img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- Articulate and professional communication skills, including formal presentations and technical documentation.<br>
-Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
-As a competent and experienced developer, <br>
-I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools in web and mobile development.<br>
-Productive in both team-based and self-managed projects: dedicated to keeping up-to-date industry knowledge and IT skills.<br>
-Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
-
-[ B2B | B2C | MarketPlace | SAAS | ERP | CRM | React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]<br><br>
-If you have any questions, you are welcome anytime.
-
-##
-##### My mission
-- **[ Perfect result | Best Quality |  On-time Delivery ]**
-- [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
-
-##
-##### My skills
-
+- NickName: Blocklimax ( full-stack blockchain & web & mobile developer ).<br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
