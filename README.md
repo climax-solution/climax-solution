@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hello Everyone! I am Senior Blockchain Developer."/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hello Everyone! I am Senior Blockchain Developer." title="👋 Hello Everyone! I am Senior Blockchain Developer."/>]
 
 
 Talking about Personal Stuffs:
