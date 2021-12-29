@@ -1,9 +1,17 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hello Everyone! I am Senior Blockchain Developer." title="👋 Hello Everyone! I am Senior Blockchain Developer."/>]
-
+<p align='center'>
+    <a href="https://t.me/Serious1217">
+      <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://discord.gg/epic#">
+      <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:blocklimax@gmail.com">
+      <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>&nbsp;&nbsp;
+</p>
 
 Talking about Personal Stuffs:
 
-- NickName: Blocklimax ( full-stack blockchain & web & mobile developer ).<br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
