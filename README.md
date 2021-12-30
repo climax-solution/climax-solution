@@ -61,3 +61,5 @@ Talking about Personal Stuffs:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=climax-solution&theme=highcontrast&include_all_commits=true&count_private=true&count_forked=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=climax-solution&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=climax-solution&show_icons=true&theme=dracula)
