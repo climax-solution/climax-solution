@@ -58,5 +58,5 @@ Talking about Personal Stuffs:
 </details>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=climax-solution&column=7&theme=onedark&count_private=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=climax-solution&column=7&theme=onedark&rank=S"/>
 </p>
