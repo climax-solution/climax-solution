@@ -46,7 +46,3 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 </details>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=climax-solution&theme=onedark"/>
-</p>
