@@ -7,7 +7,6 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="35" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
 <code><img height="35" src="https://bestofjs.org/logos/vuetify.svg"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
